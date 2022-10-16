@@ -1,0 +1,1 @@
+This has duplicate allele.fsa files (optimizations improved over time, so fragments from 2019 have more representatives with well-amplified alleles used for scoring/binning.) Also note that document names use the marker names we used in our study, which are not the official marker names, so see the file MarkerNames to learn what the original markers are. 
